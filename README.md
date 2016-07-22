@@ -2,7 +2,7 @@
 
 MaterialLoadingProgressBar provide a styled ProgressBar which looks  like SwipeRefreshLayout's loading indicator(support-v4  v21+)
 
-![ProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen.gif)
+![](https://github.com/836948082/MaterialLoadingProgressBar/blob/master/image/image.gif)
 ## Usage
 
 ### xml:
